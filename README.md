@@ -17,7 +17,7 @@ Meu diferencial: resolvo problemas reais de negócio com dados, não apenas exec
 modelos.
 
 📍 Brasil  
-🔗 [LinkedIn]((https://www.linkedin.com/in/brunaapluz/)) 
+🔗 [LinkedIn](https://www.linkedin.com/in/brunaapluz/)
 
 ---
 
@@ -31,7 +31,7 @@ studying at Data Science Academy, focused on Python, Machine Learning, and predi
 analytics.
 
 📍 Brazil  
-🔗 [LinkedIn]((https://www.linkedin.com/in/brunaapluz/))
+🔗 [LinkedIn](https://www.linkedin.com/in/brunaapluz/)
 
 ---
 
