@@ -1,16 +1,48 @@
-## Hi there 👋
+# Bruna Luz
 
-<!--
-**brunaluz-analytics/brunaluz-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Web Analytics | Transição para Ciência de Dados**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🇧🇷 Português
+
+Analista de Web Analytics com experiência em análise de comportamento de usuário,
+funil de conversão e decisões orientadas a dados.
+
+Atualmente em transição para Ciência de Dados — cursando graduação em Ciências de
+Dados (Unicesumar) e formação na Data Science Academy, com foco em Python, Machine
+Learning e análise preditiva.
+
+Meu diferencial: resolvo problemas reais de negócio com dados, não apenas executo
+modelos.
+
+📍 Brasil  
+🔗 [LinkedIn]((https://www.linkedin.com/in/brunaapluz/)) 
+
+---
+
+## 🇺🇸 English
+
+Web Analytics Analyst with experience in user behavior analysis, conversion funnels,
+and data-driven decision making.
+
+Currently transitioning into Data Science — pursuing a degree in Data Science and
+studying at Data Science Academy, focused on Python, Machine Learning, and predictive
+analytics.
+
+📍 Brazil  
+🔗 [LinkedIn]((https://www.linkedin.com/in/brunaapluz/))
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+![Python](https://img.shields.io/badge/Python-learning-blue)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-experienced-orange)
+![SQL](https://img.shields.io/badge/SQL-intermediate-lightgrey)
+
+---
+
+## 📌 Em construção
+
+Projetos em desenvolvimento. Em breve por aqui.
