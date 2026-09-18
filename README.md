@@ -1,48 +1,66 @@
-# Bruna Luz
+# Hi, I'm Bruna Luz
 
-**Analista de Web Analytics | Transição para Ciência de Dados**
+### Analytics Engineer | SQL • Python • Data Modeling • ETL • BI
 
----
+I build data solutions that transform operational data into reliable
+analytical models for business decision-making.
 
-## 🇧🇷 Português
+My background started in Web Analytics and expanded into data pipelines,
+system integrations, data quality, analytical modeling and Business
+Intelligence for e-commerce and logistics operations.
 
-Analista de Web Analytics com experiência em análise de comportamento de usuário,
-funil de conversão e decisões orientadas a dados.
+## What I work with
 
-Atualmente em transição para Ciência de Dados — cursando graduação em Ciências de
-Dados (Unicesumar) e formação na Data Science Academy, com foco em Python, Machine
-Learning e análise preditiva.
+- ETL and data pipelines with Python and Pandas
+- Data transformation and analytical modeling with SQL
+- Data quality, validation and reconciliation
+- Operational data from ERP, e-commerce and logistics systems
+- Data marts and views for Power BI
+- KPI, SLA, freight cost and order lifecycle analysis
 
-Meu diferencial: resolvo problemas reais de negócio com dados, não apenas executo
-modelos.
+## Featured projects
 
-📍 Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/brunaapluz/)
+### Logistics Analytics Pipeline
 
----
+ETL pipeline designed to process more than 500,000 records per month,
+consolidate ERP snapshots, remove duplicates and generate analytical
+data models for logistics and SLA monitoring.
 
-## 🇺🇸 English
+**Stack:** Python, Pandas, SQL, SQLite and Power BI
 
-Web Analytics Analyst with experience in user behavior analysis, conversion funnels,
-and data-driven decision making.
+### Freight Cost Audit
 
-Currently transitioning into Data Science — pursuing a degree in Data Science and
-studying at Data Science Academy, focused on Python, Machine Learning, and predictive
-analytics.
+Analytical solution that compares the freight paid by customers at
+checkout with the actual carrier cost, identifying promotional subsidies,
+billing anomalies and cost-saving opportunities.
 
-📍 Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/brunaapluz/)
+**Stack:** Python, SQL, Excel and Power BI
 
----
+### Orders and Returns Pipeline
 
-## 🛠️ Ferramentas & Tecnologias
+Automated pipeline that integrates orders and returns from multiple
+brands and sales channels, validates data quality and identifies
+fulfillment issues.
 
-![Python](https://img.shields.io/badge/Python-learning-blue)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-experienced-orange)
-![SQL](https://img.shields.io/badge/SQL-intermediate-lightgrey)
+**Stack:** Python, Pandas and Excel
 
----
+## Technologies
 
-## 📌 Em construção
+- **Languages:** SQL and Python
+- **Data processing:** Pandas and NumPy
+- **Databases:** SQLite and BigQuery
+- **BI:** Power BI, DAX and Looker Studio
+- **Analytics:** GA4 and Google Tag Manager
+- **Version control:** Git and GitHub
 
-Projetos em desenvolvimento. Em breve por aqui.
+## Currently expanding
+
+- dbt
+- PostgreSQL
+- Docker
+- Automated data testing
+- Data orchestration
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/brunaapluz/)
