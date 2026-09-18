@@ -1,4 +1,4 @@
-# Hi, I'm Bruna Luz
+# Hi, I'm Bruna Luz 🌟
 
 ### Analytics Engineer | SQL • Python • Data Modeling • ETL • BI
 
